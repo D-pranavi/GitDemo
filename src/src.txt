@@ -2,4 +2,9 @@ this is the first line
 
 this is added in develop1
 
+<<<<<<< HEAD
 this is added in dev3
+=======
+
+this is added in develop 2
+>>>>>>> 7645cc291672db382435ebb2ad03f21a874e8915
